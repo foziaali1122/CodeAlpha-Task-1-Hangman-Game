@@ -30,6 +30,4 @@ A fun & interactive **Hangman Game in Python** where the player guesses the hidd
 ---
 
 ## 🎥 Game Preview
-![Hangman Screenshot](<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/7c82b1c6-e4b5-4ea8-a533-1ff928fc83c1" />
-)
-   
+![Hangman Screenshot]()
