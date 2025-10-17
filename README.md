@@ -33,9 +33,3 @@ A fun & interactive **Hangman Game in Python** where the player guesses the hidd
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/hangman-game.git
-
-
----
-
-Do you also want me to add a **Game Preview GIF/Screenshot section** placeholder in the README (so repo looks even more attractive)?
-
